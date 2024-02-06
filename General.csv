@@ -93,7 +93,7 @@ High,3404290719744,High,Alto,,Alto
 Low,3426973515776,Low,Baixo,,Bajo
 Medium,3421881630720,Medium,Médio,,Medio
 Ultra,3248774316032,Ultra,Ultra,,Ultra
-VeryHigh,3387488337920,Very High,"Muito Alto,,""Muy Alto",,
+VeryHigh,3387488337920,Very High,Muito Alto,,Muy Alto
 VeryLow,3843920887808,Very Low,Muito Baixo,,Muy Bajo
 QuitMsg,1414064111616,Are you sure you want to exit the game?,Você tem certeza que quer sair do jogo?,,¿Estás seguro que quieres salir del juego?
 Resolution,2149094916096,Resolution,Resolução,,Resolución
@@ -110,7 +110,7 @@ This game contains flashing lights, loud noises and lots of jumpscares!","<size=
 Este jogo contém luzes piscando, barulhos altos e muitos Jumpscares!",,"<size=45>¡¡¡ADVERTENCIA!!!</size>
 
 ¡Este juego contiene luces intermitentes, ruidos fuertes y muchos sustos!"
-SkipMsg,40870867501056,"Hold <sprite=""Enter Key"" name=""Enter Key""> or <sprite=""Right Click"" name=""Right Click""> to skip",,,"Mantén <sprite=""Enter Key"" name=""Enter Key""> o <sprite=""Right Click"" name=""Right Click""> para omitir"
+SkipMsg,40870867501056,"Hold <sprite=""Enter Key"" name=""Enter Key""> or <sprite=""Right Click"" name=""Right Click""> to skip","Mantenha pressionado <sprite=""Enter Key"" name=""Enter Key""> o <sprite=""Right Click"" name=""Right Click""> para pular",,"Mantén <sprite=""Enter Key"" name=""Enter Key""> o <sprite=""Right Click"" name=""Right Click""> para omitir"
 Move,3870440456585216,Move,Mover,,Moverse
 BetaMsg,"2,71611493389435E+016","This game is in BETA phase.
 If you experience any bugs or errors, please report them using the ""Report Bug"" button","Este jogo está na fase BETA. Se você encontrar algum bug ou erro, por favor, relate usando o botão ""Reportar Bug"".",,"Este juego está en fase BETA.
