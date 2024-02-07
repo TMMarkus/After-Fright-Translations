@@ -1,12 +1,19 @@
 ﻿Key,Id,English(en),Portuguese(pt),Russian(ru),Spanish(es)
-"FinalMsg",32051466731520,"<size=50>Thanks for playing!</size>
+FinalMsg,32051466731520,"<size=50>Thanks for playing!</size>
 
 
 We ask you to share the game so that more people can try it.
 
 This is just part of the game, we plan a total of 6 levels, each one with a different mechanic and each one more difficult, more cinematics and different endings.
 
-We hope you enjoyed it. Any bugs, ideas or changes tell us in our official Discord, in which we will also publish new images and news about the development. The invite link is in the credits.",,,"<size=50>¡Gracias por jugar!</size>
+We hope you enjoyed it. Any bugs, ideas or changes tell us in our official Discord, in which we will also publish new images and news about the development. The invite link is in the credits.","<size=50>Obrigado por jogar!</size>
+
+
+Pedimos que você compartilhe o jogo para que mais pessoas possam experimentá-lo.
+
+Isto é apenas parte do jogo, planeamos um total de 6 níveis, cada um com uma mecânica diferente e mais difíceis, mais cinemáticas e finais diferentes.
+
+Nós esperamos que você tenha gostado. Qualquer bug, ideia ou mudança nos avise em nosso Discord oficial, no qual também publicaremos novas imagens e novidades sobre o desenvolvimento. O link do convite está nos créditos.",,"<size=50>¡Gracias por jugar!</size>
 
 
 Te pedimos que compartas el juego para que más gente pueda probarlo.
@@ -14,21 +21,21 @@ Te pedimos que compartas el juego para que más gente pueda probarlo.
 Esto es solo una parte del juego, tenemos pensado un total de 6 niveles, cada uno con una mecánica diferente y cada cual más difícil, más cinemáticas y diferentes finales.
 
 Esperamos que lo hayas disfrutado. Cualquier error, idea o cambio coméntanoslo en nuestro Discord oficial, en él también publicaremos nuevas imágenes y noticias sobre el desarrollo. El enlace de invitación está en los créditos."
-"Apply",2786822062080,"Apply",,,"Aplicar"
-"Back",2947572957184,"Back",,,"Atrás"
-"Continue",492365807616,"Continue",,,"Continuar"
-"Credits",3027294093312,"Credits",,,"Créditos"
-"Exit",1080507891712,"Exit",,,"Salir"
-"Extras",862068539392,"Extras",,,"Extras"
-"Levels",691356172288,"Levels",,,"Niveles"
-"NewGame",383758499840,"New Game",,,"Nueva Partida"
-"No",2843218673664,"No",,,"No"
-"Report",983191650304,"Report Bug",,,"Reportar Error"
-"Restart",1160149336064,"Restart",,,"Reiniciar"
-"Settings",936899117056,"Settings",,,"Ajustes"
-"Yes",2919227850752,"Yes",,,"Si"
-"Charge",41325383254016,"Charge",,,"Cargar"
-"CreditsList",12728224317440,"<size=36><color=#ffffff>Credits</color></size>
+Apply,2786822062080,Apply,Aplicar,,Aplicar
+Back,2947572957184,Back,Voltar,,Atrás
+Continue,492365807616,Continue,Continuar,,Continuar
+Credits,3027294093312,Credits,créditos,,Créditos
+Exit,1080507891712,Exit,Sair,,Salir
+Extras,862068539392,Extras,Extras,,Extras
+Levels,691356172288,Levels,Níveis,,Niveles
+NewGame,383758499840,New Game,Novo Jogo,,Nueva Partida
+No,2843218673664,No,Não,,No
+Report,983191650304,Report Bug,Reportar Bug,,Reportar Error
+Restart,1160149336064,Restart,Reiniciar,,Reiniciar
+Settings,936899117056,Settings,Configurações,,Ajustes
+Yes,2919227850752,Yes,Sim,,Si
+Charge,41325383254016,Charge,Recarregue,,Cargar
+CreditsList,12728224317440,"<size=36><color=#ffffff>Credits</color></size>
 <gradient=""YellowOrange_Vertical"">
 TMMarkus<space=5em>Director, Programmer and Animator.
 MikiSolor<space=10.2em>Modeler 3D and Animator.
@@ -37,7 +44,16 @@ MikiSolor<space=10.2em>Modeler 3D and Animator.
 <gradient=""GreenLightGreen_Vertical"">
 Meyer Veloso<space=3em>Momo<space=3em>Eros<space=3em>ItsFunnyDog
 Alfredo
-</gradient>",,,"<size=36><color=#ffffff>Créditos</color></size>
+</gradient>","<size=36><color=#ffffff>Créditos</color></size>
+<gradient=""YellowOrange_Vertical"">
+TMMarkus<space=5.5em>Diretor, Programador e Animador.
+MikiSolor<space=10.1em>Modelador 3D e Animador.
+</gradient>
+<size=26><color=#ffffff>Doadores</color></size>
+<gradient=""GreenLightGreen_Vertical"">
+Meyer Veloso<space=3em>Momo<space=3em>Eros<space=3em>ItsFunnyDog
+Alfredo
+</gradient>",,"<size=36><color=#ffffff>Créditos</color></size>
 <gradient=""YellowOrange_Vertical"">
 TMMarkus<space=5.5em>Director, Programador y Animador.
 MikiSolor<space=10.1em>Modelador 3D y Animador.
@@ -47,64 +63,71 @@ MikiSolor<space=10.1em>Modelador 3D y Animador.
 Meyer Veloso<space=3em>Momo<space=3em>Eros<space=3em>ItsFunnyDog
 Alfredo
 </gradient>"
-"DiedBy",37977506578432,"Died by:",,,"Te ha matado:"
-"DoorHealth",41443402579968,"Door Health",,,"Salud de la Puerta"
-"English",3099931049984,"English",,,"Ingles"
-"Exiting",40735886409728,"Exiting",,,"Saliendo"
-"Flash",41281707966464,"Flash",,,"Flash"
-"Fullscreen",2223166324736,"Fullscreen",,,"Pantalla Completa"
-"Graphics",2085580570624,"Graphics",,,"Gráficos"
-"Hide",41213986734080,"Hide",,,"Esconderse"
-"Hold",41515561385984,"Hold",,,"Mantener"
-"Language",1866570792960,"Language",,,"Idioma"
-"Level",1277480796160,"Level",,,"Nivel"
-"Monitor",7007151718400,"Monitor",,,"Pantalla"
-"MonitorMsg",2551475470336,"It is necessary to restart the game to apply the selected monitor.
+DiedBy,37977506578432,Died by:,Morto por:,,Te ha matado:
+DoorHealth,41443402579968,Door Health,Saúde da porta,,Salud de la Puerta
+English,3099931049984,English,Inglês,,Ingles
+Exiting,40735886409728,Exiting,Saíndo,,Saliendo
+Flash,41281707966464,Flash,Flash,,Flash
+Fullscreen,2223166324736,Fullscreen,Tela Cheia,,Pantalla Completa
+Graphics,2085580570624,Graphics,Gráficos,,Gráficos
+Hide,41213986734080,Hide,Esconder,,Esconderse
+Hold,41515561385984,Hold,Segure,,Mantener
+Language,1866570792960,Language,Linguagem,,Idioma
+Level,1277480796160,Level,Nível,,Nivel
+Monitor,7007151718400,Monitor,Monitor,,Pantalla
+MonitorMsg,2551475470336,"It is necessary to restart the game to apply the selected monitor.
 
-Do you want to apply and restart?",,,"Es necesario reiniciar el juego para aplicar la pantalla seleccionada.
+Do you want to apply and restart?","É necessário reiniciar o jogo para aplicar o monitor selecionado
+
+Você quer aplicar e reiniciar?",,"Es necesario reiniciar el juego para aplicar la pantalla seleccionada.
 
 ¿Quieres aplicar y reiniciar?"
-"NewGameMsg",1548927762432,"Are you sure you want to start a new game?
+NewGameMsg,1548927762432,"Are you sure you want to start a new game?
 
-All your progress, including endings and game modes you have unlocked, will be erased.",,,"¿Estás seguro de que quieres empezar una nueva partida?
+All your progress, including endings and game modes you have unlocked, will be erased.","Você tem certeza que quer começar um novo jogo?
+
+Todo o seu progresso, incluindo finais e modos de jogo que você desbloqueou, serão apagados.",,"¿Estás seguro de que quieres empezar una nueva partida?
 
 Se borrará todo tu progreso, incluido finales y modos de juego que has desbloqueado."
-"High",3404290719744,"High",,,"Alto"
-"Low",3426973515776,"Low",,,"Bajo"
-"Medium",3421881630720,"Medium",,,"Medio"
-"Ultra",3248774316032,"Ultra",,,"Ultra"
-"VeryHigh",3387488337920,"Very High",,,"Muy Alto"
-"VeryLow",3843920887808,"Very Low",,,"Muy Bajo"
-"QuitMsg",1414064111616,"Are you sure you want to exit the game?",,,"¿Estás seguro que quieres salir del juego?"
-"Resolution",2149094916096,"Resolution",,,"Resolución"
-"Restarting",41150145232896,"Restarting",,,"Reiniciando"
-"Shock",41409378385920,"Shock",,,"Descarga"
-"Skipping",40808946991104,"Skipping",,,"Omitiendo"
-"Spanish",3186501484544,"Spanish",,,"Español"
-"Volume",2368645758976,"Volume",,,"Volumen"
-"VSync",2336047628288,"VSync",,,"VSync"
-"WarningMsg",26582178201600,"<size=45>WARNING!!!</size>
+High,3404290719744,High,Alto,,Alto
+Low,3426973515776,Low,Baixo,,Bajo
+Medium,3421881630720,Medium,Médio,,Medio
+Ultra,3248774316032,Ultra,Ultra,,Ultra
+VeryHigh,3387488337920,Very High,Muito Alto,,Muy Alto
+VeryLow,3843920887808,Very Low,Muito Baixo,,Muy Bajo
+QuitMsg,1414064111616,Are you sure you want to exit the game?,Você tem certeza que quer sair do jogo?,,¿Estás seguro que quieres salir del juego?
+Resolution,2149094916096,Resolution,Resolução,,Resolución
+Restarting,41150145232896,Restarting,Reiniciando,,Reiniciando
+Shock,41409378385920,Shock,Choque,,Descarga
+Skipping,40808946991104,Skipping,Pulando,,Omitiendo
+Spanish,3186501484544,Spanish,Espanhol,,Español
+Volume,2368645758976,Volume,Volume,,Volumen
+VSync,2336047628288,VSync,VSync,,VSync
+WarningMsg,26582178201600,"<size=45>WARNING!!!</size>
 
-This game contains flashing lights, loud noises and lots of jumpscares!",,,"<size=45>¡¡¡ADVERTENCIA!!!</size>
+This game contains flashing lights, loud noises and lots of jumpscares!","<size=45>AVISO!!!</size>
+
+Este jogo contém luzes piscando, barulhos altos e muitos Jumpscares!",,"<size=45>¡¡¡ADVERTENCIA!!!</size>
 
 ¡Este juego contiene luces intermitentes, ruidos fuertes y muchos sustos!"
-"SkipMsg",40870867501056,"Hold <sprite=""Enter Key"" name=""Enter Key""> or <sprite=""Right Click"" name=""Right Click""> to skip",,,"Mantén <sprite=""Enter Key"" name=""Enter Key""> o <sprite=""Right Click"" name=""Right Click""> para omitir"
-"Move",3870440456585216,"Move",,,"Moverse"
-"BetaMsg",27161149338943488,"This game is in BETA phase.
-If you experience any bugs or errors, please report them using the ""Report Bug"" button",,,"Este juego está en fase BETA.
+SkipMsg,40870867501056,"Hold <sprite=""Enter Key"" name=""Enter Key""> or <sprite=""Right Click"" name=""Right Click""> to skip","Mantenha pressionado <sprite=""Enter Key"" name=""Enter Key""> o <sprite=""Right Click"" name=""Right Click""> para pular",,"Mantén <sprite=""Enter Key"" name=""Enter Key""> o <sprite=""Right Click"" name=""Right Click""> para omitir"
+Move,3870440456585216,Move,Mover,,Moverse
+BetaMsg,"2,71611493389435E+016","This game is in BETA phase.
+If you experience any bugs or errors, please report them using the ""Report Bug"" button","Este jogo está na fase BETA. Se você encontrar algum bug ou erro, por favor, relate usando o botão ""Reportar Bug"".",,"Este juego está en fase BETA.
 Si experimentas algún bug o error, por favor repórtalo usando el botón ""Reportar Error"""
-"Mobile/SkipMsg",27230394039009280,"Touch and Hold to skip",,,"Toca y Manten para omitir"
-"Potato",52009821264281600,"Potato",,,"Patata"
-"OutdatedVersion",59364567386435584,"Outdated Version",,,"Versión Desactualizada"
-"OutdatedVersionMsg",59364721803931648,"You are using an outdated version of the game, please update it to get the latest changes and fixes.",,,"Estás usando una versión desactualizada del juego, por favor actualízala para obtener los últimos cambios y arreglos."
-"Changelog",59372337481396224,"Changelog",,,"Lista de Cambios"
-"AfterFright",59574572391870464,"After Fright",,,"After Fright"
-"Achievements",72294592784121856,"Achievements",,,"Logros"
-"SelectLevel",88890305236283392,"Select Level",,,"Seleccionar Nivel"
-"SupportUs",93604179999043584,"Support Us",,,"Apoyanos"
-"Play",93608453944487936,"Play",,,"Jugar"
-"HighFps",108297751545581568,"High FPS
-<size=10><color=#FFC300FF>(High Consume)</color></size>",,,"Altos FPS
+Mobile/SkipMsg,"2,72303940390093E+016",Touch and Hold to skip,Toque e Segure para pular,,Toca y Manten para omitir
+Potato,"5,20098212642816E+016",Potato,Batata,,Patata
+OutdatedVersion,"5,93645673864356E+016",Outdated Version,Versão Desatualizada,,Versión Desactualizada
+OutdatedVersionMsg,"5,93647218039317E+016","You are using an outdated version of the game, please update it to get the latest changes and fixes.",Você está usando uma versão desatualizada do jogo. Atualize-a para obter as alterações e correções mais recentes,,"Estás usando una versión desactualizada del juego, por favor actualízala para obtener los últimos cambios y arreglos."
+Changelog,"5,93723374813962E+016",Changelog,Registro de alterações,,Lista de Cambios
+AfterFright,"5,95745723918705E+016",After Fright,After Fright,,After Fright
+Achievements,"7,22945927841219E+016",Achievements,Conquistas,,Logros
+SelectLevel,"8,88903052362834E+016",Select Level,Selecionar Nível,,Seleccionar Nivel
+SupportUs,"9,36041799990436E+016",Support Us,Apoie-nos,,Apoyanos
+Play,"9,36084539444879E+016",Play,Jogar,,Jugar
+HighFps,"1,08297751545582E+017","High FPS
+<size=10><color=#FFC300FF>(High Consume)</color></size>","FPS Alto
+<size=10><color=#FFC300FF>(Alto Consumo)</color></size>",,"Altos FPS
 <size=10><color=#FFC300FF>(Alto Consumo)</color></size>"
-"Sound3D",120847967288930304,"Sound 3D",,,"Sonido 3D"
-"Search",138302404957290496,"Search",,,"Buscar"
+Sound3D,"1,2084796728893E+017",Sound 3D,Som 3D,,Sonido 3D
+Search,"1,38302404957291E+017",Search,Procurar,,Buscar
