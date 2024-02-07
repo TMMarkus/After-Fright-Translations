@@ -132,7 +132,7 @@ Este jogo contém luzes piscando, barulhos altos e muitos Jumpscares!","<size=45
 Эта игра содержит мигающие огни,громкие звуки,и скримеры!","<size=45>¡¡¡ADVERTENCIA!!!</size>
 
 ¡Este juego contiene luces intermitentes, ruidos fuertes y muchos sustos!"
-SkipMsg,40870867501056,"Hold <sprite=""Enter Key"" name=""Enter Key""> or <sprite=""Right Click"" name=""Right Click""> to skip","Mantenha pressionado <sprite=""Enter Key"" name=""Enter Key""> o <sprite=""Right Click"" name=""Right Click""> para pular","Удерживайте <sprite=""Enter Key"" name=""Enter Key""> или <sprite=""Right Click"" name=""Right Click""> для пропуска","Mantén <sprite=""Enter Key"" name=""Enter Key""> o <sprite=""Right Click"" name=""Right Click""> para omitir"
+SkipMsg,40870867501056,"Hold <sprite=""Enter Key"" name=""Enter Key""> or <sprite=""Right Click"" name=""Right Click""> to skip","Mantenha pressionado <sprite=""Enter Key"" name=""Enter Key""> ou <sprite=""Right Click"" name=""Right Click""> para pular","Удерживайте <sprite=""Enter Key"" name=""Enter Key""> или <sprite=""Right Click"" name=""Right Click""> для пропуска","Mantén <sprite=""Enter Key"" name=""Enter Key""> o <sprite=""Right Click"" name=""Right Click""> para omitir"
 Move,3870440456585216,Move,Mover,Двигаться,Moverse
 BetaMsg,"2,71611493389435E+016","This game is in BETA phase.
 If you experience any bugs or errors, please report them using the ""Report Bug"" button","Este jogo está na fase BETA. Se você encontrar algum bug ou erro, por favor, relate usando o botão ""Reportar Bug"".","Эта игра находится в БЕТА фазе.
