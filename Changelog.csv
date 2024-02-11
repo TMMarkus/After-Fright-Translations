@@ -1,0 +1,633 @@
+﻿Key,Id,English(en),Portuguese(pt),Russian(ru),Spanish(es)
+"v0.1/Title",3562601295872,"v0.1","v0.1","v0.1","v0.1"
+"v0.1/Desc",3731786936320,"- First Alpha release.",,,"- Primer lanzamiento de la Alpha"
+"v0.1.1/Title",3849206476800,"v0.1.1","v0.1.1","v0.1.1","v0.1.1"
+"v0.1.1/Desc",3895574507520,"- A new Easter Egg has been added.
+- Added a warning message when opening the game.
+- Added a static effect when you lose.
+- Added a button to report bugs in the main menu.
+- Added flashing lights effect on some jumpscares and animation when Foxy searches the room.
+- Added a new poster.
+- Added burnt effect to posters.
+- New audios have been added to Freddy.
+- New tips have been added, which will give clues on how to deal with the animatronics.
+- The volume of the flash has been reduced a little.
+- Removed some junk files.
+- Updated loading screen images.
+- The time required to exit the game by holding the ESC key has been reduced.
+- The time it takes for Foxy to make his sound when you look at the hallway he's in has been reduced from 3 to 2 seconds.
+- You can now skip the cutscene by clicking the right mouse button.
+- Now, if it is the first time you start the game, it will default the graphic options to ""Ultra"".
+- Now when you press the ""Exit"" button a confirmation window will appear.
+- Now Freddy makes a very weak sound when he appears in one of the two halls.
+- Updated some texts.
+- Updated languages file.
+- The ""Apply"" button has been removed from the settings menu.
+- Removed the word ""[Alpha]"" in the version text.
+- Office lighting has been increased.
+- Increased lighting during power outage and Springtrap's jumpscare.
+- Now you need to click on the arrows to move.
+- Now to change the monitor it is not necessary to press the button, when detecting the change it will ask you if you want to apply and restart.
+- Updated the language file.
+- Increased cooldown time for Springtrap's jumpscare.
+- Springtrap's jumpscare has been shortened, now he will appear suddenly without going under the door.
+- The speed of the command part in the initial cinematic has been increased.
+- Part of the initial cinematic has been improved.
+- The office has been reorganized a bit.
+- Some tips have been updated as they were not very consistent.
+- Up to 3 tips will now appear on the loading screen before starting the game.
+- Now you can keep moving when Springtrap manages to open the door.
+- Fixed bug that caused the power cut animation to still not work when trying to deactivate an object that was no longer on the scene.
+- Fixed flash sound which was still playing even at 0% volume.
+- Fixed ""Exit"" button sound.
+- Fixed bug, which allowed the fan to keep running when the power goes out.
+- Fixed bug that the effect of the lights in the office was not reactivated.
+- Fixed bug that caused sounds to be heard after a jumpscare.",,,"- Se ha añadido un nuevo Huevo de Pascua.
+- Se ha añadido un mensaje de advertencia al abrir el juego.
+- Se ha añadido un efecto estático cuando pierdes.
+- Se ha añadido un botón para informar errores en el menú principal.
+- Se ha añadido un efecto de luces intermitentes en algunos sustos y en la animación cuando Foxy busca en la habitación.
+- Se ha añadido un nuevo póster.
+- Se ha añadido un efecto de quemado a los pósters.
+- Se han añadido nuevos audios a Freddy.
+- Se han añadido nuevos consejos que darán pistas sobre cómo lidiar con los animatrónicos.
+- Se ha reducido un poco el volumen del destello.
+- Se han eliminado algunos archivos innecesarios.
+- Se han actualizado las imágenes de pantalla de carga.
+- Se ha reducido el tiempo necesario para salir del juego al mantener presionada la tecla ESC.
+- Se ha reducido el tiempo que tarda Foxy en hacer su sonido cuando miras al pasillo en el que se encuentra, de 3 a 2 segundos.
+- Ahora puedes saltarte la escena haciendo clic con el botón derecho del ratón.
+- Ahora, si es la primera vez que inicias el juego, las opciones gráficas se establecerán automáticamente en ""Ultra"".
+- Ahora, al presionar el botón ""Salir"", aparecerá una ventana de confirmación.
+- Ahora Freddy emite un sonido muy débil cuando aparece en uno de los dos pasillos.
+- Se han actualizado algunos textos.
+- Se ha actualizado el archivo de idiomas.
+- Se ha eliminado el botón ""Aplicar"" del menú de configuración.
+- Se ha eliminado la palabra ""[Alpha]"" del texto de versión.
+- Se ha aumentado la iluminación de la oficina.
+- Se ha aumentado la iluminación durante los cortes de energía y el susto repentino de Springtrap.
+- Ahora necesitas hacer clic en las flechas para moverte.
+- Ahora no es necesario presionar el botón para cambiar el monitor; al detectar el cambio, te preguntará si deseas aplicar y reiniciar.
+- Se ha actualizado el archivo de idiomas.
+- Se ha aumentado el tiempo de reutilización para el susto repentino de Springtrap.
+- Se ha acortado el susto repentino de Springtrap; ahora aparecerá repentinamente sin pasar por debajo de la puerta.
+- Se ha aumentado la velocidad de la parte de comandos en la cinemática inicial.
+- Se ha mejorado una parte de la cinemática inicial.
+- La oficina se ha reorganizado un poco.
+- Se han actualizado algunos consejos, ya que no eran muy coherentes.
+- Ahora aparecerán hasta 3 consejos en la pantalla de carga antes de iniciar el juego.
+- Ahora puedes seguir moviéndote cuando Springtrap logra abrir la puerta.
+- Se ha corregido un error que causaba que la animación de corte de energía aún no funcionara al intentar desactivar un objeto que ya no estaba en la escena.
+- Se ha corregido el sonido del destello, que seguía reproduciéndose incluso al 0% de volumen.
+- Se ha corregido el sonido del botón ""Salir"".
+- Se ha corregido un error que permitía que el ventilador siguiera funcionando cuando se cortaba la energía.
+- Se ha corregido un error por el cual el efecto de las luces en la oficina no se volvía a activar.
+- Se ha corregido un error que hacía que se escucharan sonidos después de un susto repentino."
+"v0.2/Title",7217182257152,"v0.2","v0.2","v0.2","v0.2"
+"v0.2/Desc",7339429441536,"- Added the full level 1 cinematic.
+- Added the full level 2 cutscene.
+- Added level 2 which will face Burned Mangle in the vents.
+- Added progress saving system.
+- Added new sounds.
+- Removed junk files.
+- Optimized scripts.
+- Fixed minor bugs.",,,"- Se ha añadido la cinemática completa del nivel 1.
+- Se ha añadido la escena completa del nivel 2.
+- Se ha añadido el nivel 2 en el que te enfrentarás a Mangle Quemada en las ventilaciones.
+- Se ha añadido un sistema de guardado de progreso.
+- Se han añadido nuevos sonidos.
+- Se han eliminado archivos innecesarios.
+- Se han optimizado los scripts.
+- Se han corregido pequeños errores."
+"v0.2.1/Title",7951932043264,"v0.2.1","v0.2.1","v0.2.1","v0.2.1"
+"v0.2.1/Desc",8008102162432,"- Added Easter Egg on level 2. Hint: It's a time trial.
+- Added icon in level 1 of security doors.
+- Added death screen which will show you who killed you along with an explanation of how to avoid it.
+- Added trick to go directly to level 2 from the main menu (Press the P key).
+- Added new animations to the door where Springtrap is, which will be shown depending on how much health he has left.
+- Added tutorial screen after level 1 cinematic.
+- Now, the color of the health of the door will vary depending on its percentage.
+- Now the sound that Foxy makes when he appears can be heard every X seconds without having to look at him, and (if you use Stereo headphones) you will be able to know in which direction he is.
+- It is no longer necessary to reload the level when changing the language.
+- Changed the hiding animation of the Mangle clone.
+- Head bobbing in level 1 cinematic has been reduced.
+- Shortened the part of the commands on PC in the level 1 cinematic.
+- The translation system of the game has been completely changed, now it is more optimized and more stable.
+- Fixed bug that caused some sentences to not translate well.
+- Fixed bug that caused Foxy to get stuck in one of the corridors after finishing the search animation.
+- Fixed bug that caused Foxy to not start the search animation after getting stuck.
+- Fixed spelling mistakes.
+- Optimized models.
+- Optimized animations.
+- Optimized materials.
+- Optimized codes.
+- Removed junk files.",,,"- Se ha agregado un Easter Egg en el nivel 2. Pista: Es una prueba de tiempo.
+- Se ha añadido un icono en el nivel 1 de las puertas de seguridad.
+- Se ha añadido una pantalla de muerte que te mostrará quién te mató junto con una explicación de cómo evitarlo.
+- Se ha agregado un truco para ir directamente al nivel 2 desde el menú principal (presionar la tecla P).
+- Se han añadido nuevas animaciones a la puerta donde se encuentra Springtrap, que se mostrarán según la cantidad de salud que le quede.
+- Se ha añadido una pantalla de tutorial después de la cinemática del nivel 1.
+- Ahora, el color de la salud de la puerta variará según su porcentaje.
+- Ahora se puede escuchar el sonido que hace Foxy cuando aparece cada X segundos sin necesidad de mirarlo, y (si usas auriculares estéreo) podrás saber en qué dirección se encuentra.
+- Ya no es necesario recargar el nivel al cambiar el idioma.
+- Se ha cambiado la animación de ocultación del clon de Mangle.
+- Se ha reducido el movimiento de la cabeza en la cinemática del nivel 1.
+- Se ha acortado la parte de los comandos en PC en la cinemática del nivel 1.
+- El sistema de traducción del juego ha sido completamente cambiado, ahora es más optimizado y estable.
+- Se ha corregido un error que causaba que algunas frases no se tradujeran correctamente.
+- Se ha corregido un error que hacía que Foxy quedara atascado en uno de los pasillos después de terminar la animación de búsqueda.
+- Se ha corregido un error que hacía que Foxy no iniciara la animación de búsqueda después de quedar atascado.
+- Se han corregido errores ortográficos.
+- Se han optimizado los modelos.
+- Se han optimizado las animaciones.
+- Se han optimizado los materiales.
+- Se han optimizado los códigos.
+- Se han eliminado archivos innecesarios."
+"v0.2.2/Title",8421211746304,"v0.2.2","v0.2.2","v0.2.2","v0.2.2"
+"v0.2.2/Desc",8480301101056,"- The game is now in BETA state.
+- The project has been upgraded to URP for better quality and optimization.
+- Optimized models.
+- Optimized textures.
+- Optimized sounds.
+- Optimized scripts.
+- Changed button layouts, now they have been distributed with the comfort of both PC and Android in mind.
+- It is no longer necessary to use a keyboard to play.
+- Rewritten some texts.
+- Increased size of some texts.
+- Now when opening the game for the first time it will use the PC language, in case the PC is in a language which is not translated by default it will be in English.
+- Fixed bug that caused that, when selecting a language, there was a probability that it would not be saved correctly.
+- Fixed bug that caused Foxy to stay in a loop when searching.
+- Textures adjusted to quality levels and performance on low-end mobile.
+- Better compression and detail of models and textures.
+- Removed certain settings within the settings menu, since they are unnecessary on Android.",,,"- El juego ahora está en estado BETA.
+- El proyecto se ha actualizado a URP para mejorar la calidad y optimización.
+- Se han optimizado los modelos.
+- Se han optimizado las texturas.
+- Se han optimizado los sonidos.
+- Se han optimizado los scripts.
+- Se han cambiado los diseños de los botones, ahora se han distribuido pensando en la comodidad tanto de PC como de Android.
+- Ya no es necesario usar un teclado para jugar.
+- Se han reescrito algunos textos.
+- Se ha aumentado el tamaño de algunos textos.
+- Ahora, al abrir el juego por primera vez, utilizará el idioma del PC; en caso de que el PC esté en un idioma que no esté traducido por defecto, se mostrará en inglés.
+- Se ha corregido un error que provocaba que, al seleccionar un idioma, existiera una probabilidad de que no se guardara correctamente.
+- Se ha corregido un error que hacía que Foxy quedara en un bucle al buscar.
+- Se han ajustado las texturas para diferentes niveles de calidad y rendimiento en dispositivos móviles de gama baja.
+- Mejor compresión y detalle de modelos y texturas.
+- Se han eliminado ciertas opciones dentro del menú de configuración, ya que no son necesarias en Android."
+"v0.2.3/Title",8977254821888,"v0.2.3","v0.2.3","v0.2.3","v0.2.3"
+"v0.2.3/Desc",8980845146112,"- An automatic reporting system has been added to detect crashes/serious errors during gameplay.
+- A system has been added to display a pop-up window with details in case of an error.
+- A warning message has been added indicating that the game is in BETA phase.
+- For the Android version, a resolution adjustment option has been added to help optimize the game.
+- LOD (Level of Detail) system has been implemented to improve performance.
+- A help text has been added in level 1.
+- A new object has been added to the desktop in level 1.
+- Adjustments have been made to the lighting in the levels.
+- Certain functions have been changed for better performance.
+- The volume of Foxy has been increased.
+- The old ERabbitGames logo has been replaced with the new one.
+- The title of the main menu has been improved.
+- The PC and Android projects have been merged for better development.
+- The difficulty of level 1 has been increased, with Foxy appearing more frequently.
+- Some scripts have been optimized.
+- The size of PC buttons in level 1 has been increased.
+- The speed of the static effect during Game Over has been increased.
+- The time it takes for Springtrap to perform its jumpscare has been reduced.
+- The required distance to obtain the Mangle Easter Egg has been reduced.
+- An error that allowed multiple batteries to be loaded at once in level 1 has been fixed.
+- An error that caused the fan to disappear when triggering Game Over in level 1 has been fixed.
+- Part of Mangle's model has been fixed.
+- Cuts/stutters in cinematics have been resolved.
+- The camera misplacement issue during Mangle's jumpscare has been fixed.
+- Colors in cinematics have been corrected.
+- An error that caused Foxy to disappear immediately after his jumpscare has been fixed.",,,"- Se ha agregado un sistema de informes automático para detectar bloqueos/errores graves durante el juego.
+- Se ha añadido un sistema para mostrar una ventana emergente con detalles en caso de error.
+- Se ha agregado un mensaje de advertencia que indica que el juego se encuentra en fase BETA.
+- Para la versión de Android, se ha agregado una opción de ajuste de resolución para ayudar a optimizar el juego.
+- Se ha implementado un sistema LOD (Nivel de Detalle) para mejorar el rendimiento.
+- Se ha agregado un texto de ayuda en el nivel 1.
+- Se ha añadido un nuevo objeto al escritorio en el nivel 1.
+- Se han realizado ajustes en la iluminación de los niveles.
+- Se han modificado ciertas funciones para obtener un mejor rendimiento.
+- Se ha aumentado el volumen de Foxy.
+- El antiguo logotipo de ERabbitGames se ha reemplazado por uno nuevo.
+- Se ha mejorado el título del menú principal.
+- Los proyectos de PC y Android se han fusionado para un mejor desarrollo.
+- Se ha aumentado la dificultad del nivel 1, con la aparición más frecuente de Foxy.
+- Se han optimizado algunos scripts.
+- Se ha aumentado el tamaño de los botones de PC en el nivel 1.
+- Se ha aumentado la velocidad del efecto estático durante el Game Over.
+- Se ha reducido el tiempo que tarda Springtrap en realizar su susto repentino.
+- Se ha reducido la distancia requerida para obtener el Huevo de Pascua de Mangle.
+- Se ha corregido un error que permitía cargar varias baterías a la vez en el nivel 1.
+- Se ha solucionado un error que hacía que el ventilador desapareciera al activar el Game Over en el nivel 1.
+- Se ha corregido una parte del modelo de Mangle.
+- Se han resuelto los cortes/interferencias en las cinemáticas.
+- Se ha solucionado el problema de desplazamiento de la cámara durante el susto repentino de Mangle.
+- Se han corregido los colores en las cinemáticas.
+- Se ha corregido un error que hacía que Foxy desapareciera inmediatamente después de su susto repentino."
+"v0.2.4/Title",8988164206592,"v0.2.4","v0.2.4","v0.2.4","v0.2.4"
+"v0.2.4/Desc",8991372849152,"- The fan in level 1 will now start in the ""on"" state when you begin playing.
+- Added an option in the settings to switch the game graphics from ""Medium"" to ""Low"" on Android. This is intended for users with lower-end devices.
+- Lowered the volume of Springtrap's electrocution sound.
+- Decreased the background sound of Springtrap.
+- Changed Foxy's sound from 3D to 2D for improved comfort.
+- Improved the timing of the animatronics, making each one independent with its own moment to act.
+- Readjusted the difficulty of Foxy.
+- Fine-tuned the lighting in level 2.
+- Increased the sound volume of Mangle and its clone.
+- Fixed the error that occurred at the start of level 1. We believe it was related to the color format, and now we use a more compatible one.
+- Fixed an issue that caused animations to become static.
+- Resolved an error that prevented batteries from being charged.
+- Improved Mangle's animation when emerging from the shadows, making it smoother.
+- Fixed Mangle's animation when being dazzled, now it progresses based on the distance covered.
+- Fixed a problem where the footsteps of Mangle's clone were not audible.
+- Corrected Mangle's textures for a better visual appearance.",,,"- El ventilador en el nivel 1 ahora comenzará en el estado ""encendido"" cuando comiences a jugar.
+- Se agregó una opción en la configuración para cambiar los gráficos del juego de ""Medio"" a ""Bajo"" en Android. Esto está destinado a usuarios con dispositivos de gama baja.
+- Se redujo el volumen del sonido de electrocución de Springtrap.
+- Se disminuyó el sonido de fondo de Springtrap.
+- Se cambió el sonido de Foxy de 3D a 2D para mayor comodidad.
+- Se mejoró el momento en que aparecen los animatrónicos, haciendo que cada uno actúe de manera independiente en su propio momento.
+- Se reajustó la dificultad de Foxy.
+- Se ajustó la iluminación del nivel 2.
+- Se aumentó el volumen del sonido de Mangle y su clon.
+- Se corrigió el error que ocurría al iniciar el nivel 1. Creemos que estaba relacionado con el formato de color, y ahora utilizamos uno más compatible.
+- Se solucionó un problema que hacía que las animaciones se quedaran estáticas.
+- Se resolvió un error que impedía que las baterías se cargaran.
+- Se mejoró la animación de Mangle al surgir de las sombras, haciéndola más fluida.
+- Se corrigió la animación de Mangle al ser deslumbrado, ahora avanza según la distancia recorrida.
+- Se solucionó un problema donde no se escuchaban los pasos del clon de Mangle.
+- Se corrigieron las texturas de Mangle para una mejor apariencia visual."
+"v0.3/Title",10196148924416,"v0.3","v0.3","v0.3","v0.3"
+"v0.3/Desc",10198661312512,"- Level 3 has been added, please note that it is not 100% developed.
+- A new introduction for our logo has been added.
+- A new window has been added to view the list of changes in this version.
+- A notice has been added that will appear when an outdated version is detected.
+- The Easter Egg system for level 2 has been changed, and it will now be much more accurate.
+- The cutscenes have been optimized to avoid interruptions.
+- The size of the buttons on the PC in level 1 has been increased.
+- The system for the bars has been changed, and they will now unlock as you complete them.
+- The buttons to flash and move in level 1 will temporarily disappear until the animation is finished.
+- The Easter Egg in level 1 on PC is now activated in the same way as on Android.
+- The button to exit the hiding spot will disappear while Foxy is searching in level 1.
+- The sound of Foxy in level 1 has been changed.
+- The phone will no longer turn off during any cutscenes.
+- Fixed a bug that caused some animations not to run.
+- Fixed a bug that prevented the battery buttons from being pressed.
+- Fixed a bug that caused the settings not to apply correctly.
+- Fixed several errors that caused crashes.",,,"- Se ha añadido el nivel 3, tened en cuenta que no está desarrollado al 100%.
+- Se ha añadido una nueva introducción de nuestro logotipo.
+- Se ha añadido una nueva ventana para ver la lista de cambios que tiene la versión.
+- Se ha añadido un aviso el cual aparecerá al detectar que tienes una versión desactualizada.
+- Se ha cambiado el sistema del Easter Egg del nivel 2, ahora será muchísimo más preciso.
+- Se ha optimizado las cinámicas para evitar cortes.
+- Se ha aumentado el tamaño de los botones del PC del nivel 1.
+- Se ha cambiado el sistema de las barras, ahora se irán desbloqueando conforme las completes.
+- Se ha hecho que los botones para deslumbrar y moverse del nivel 1 desaparecerán temporalmente hasta que se termine de ejecutar la animación.
+- Se ha hecho que el Easter Egg del nivel 1 en PC se activa de la misma manera que en Android.
+- Se ha hecho que mientras Foxy esté buscando en el nivel 1 desaparezca el botón para salir del escondite.
+- Se ha cambiado el sonido de Foxy en el nivel 1.
+- Ahora el teléfono no se apagará durante alguna cinemática.
+- Arreglado bug que provocaba que no se ejecutaran algunas animaciones.
+- Arreglado bug que provocaba que los botones de las baterías no se pudieran pulsar.
+- Arreglado bug que provocaba que no se aplicara bien la configuración.
+- Arreglado varios errores que provocaban crasheos."
+"v0.3.1/Title",10204940185600,"v0.3.1","v0.3.1","v0.3.1","v0.3.1"
+"v0.3.1/Desc",10208362737664,"- Added level 3 cinematics.
+- Added Easter Egg to level 3.
+- Added a surprise for people who complete the BETA with all Easter Eggs from each level (There's only one per level).
+- Added an achievements system, currently, there's only one available, but in the next update, we'll add more, and in the final game, many more.
+- Added compatibility with Google Play (Android only).
+- Added tutorial to level 2.
+- Added tutorial to level 3.
+- Added sound to the ERabbitGames introduction.
+- Added new Game Over screens.
+- Added a progress bar in level 3.
+- Removed compatibility with the Vulkan API, as we were experiencing several crashes due to the API itself. We'll try to add it again later, but for now, we'll stick to OpenGL.
+- Improved the aiming system for the flashlight in level 3 on Android; now the light will point a bit higher than the finger for better comfort.
+- Some people complain that they can't hear the sound of Mangle's clone. We have tested it with testers, and all of them can differentiate the sound. We recommend increasing the game volume on your device and in the ""Settings"" menu. If the problem persists, we'll replace the sound of Mangle's clone.
+- Now you can skip the introduction and warning message by clicking or tapping the screen.
+- Optimized the game overall, it should now perform much better and take up less space. This has caused a slight decrease in quality, but we're working on a ""High"" graphics option for Android users, which will be available in the next update.
+- Updated the game to Unity 2022 for better compatibility and stability (Hopefully, there will be fewer crashes).
+- Organized the main menu for better convenience.
+- Improved level loading times.
+- Adjusted the color of button texts.
+- Fixed compatibility with emulators; now you can play comfortably on Android emulators.
+- Fixed the intensity of the light when Foxy passes by on the right in level 1.
+- Fixed cinematics, hope they work fine now T_T.
+- Fixed an error that caused level 2 to take you back to the main menu when completed.
+- Fixed sound issues in the cinematics.",,,"- Añadida cinemática del nivel 3.
+- Añadido Easter Egg al nivel 3.
+- Añadida sorpresa para la gente que se pase la BETA con todos los Easter Egg de cada nivel completados (Solo hay uno por nivel).
+- Añadido sistema de logros, por ahora solo hay uno disponible, pero en la próxima actualización añadiremos más y en el juego final aún muchos más.
+- Añadido sistema de compatibilidad con Google Play (Solo para Android).
+- Añadido tutorial al nivel 2.
+- Añadido tutorial al nivel 3.
+- Añadido sonido a la introducción de ERabbitGames.
+- Añadido nuevas pantallas de Game Over.
+- Añadida barra de progreso en el nivel 3.
+- Quitada compatibilidad con la API Vulkan, ya que estábamos registrando bastantes crasheos por culpa de la propia API. Más adelante intentaremos volver a añadir, pero por ahora vamos a probar solo con la de OpenGL.
+- Se ha mejorado el sistema de apuntado de la linterna del nivel 3 en Android, ahora la luz apuntará un poco más arriba del dedo para una mejor comodidad.
+- Hay gente que se queja de que el sonido del clon de Mangle no se escucha, hemos estado haciendo pruebas con tester y todos consiguen diferencial el sonido. Recomendamos subir el volumen al juego tanto del dispositivo como en el menú de ""Ajustes"". Si vemos que el problema persiste, sustituiremos el sonido del clon de Mangle.
+- Ahora puedes omitir la introducción y el mensaje de advertencia haciendo clic o tocando la pantalla.
+- Se ha optimizado el juego de manera general, ahora debería tener mucho mejor rendimiento y ocupar menos espacio. Esto ha provocado un pequeño bajón de calidad, pero estamos trabajando en una opción gráfica ""Alta"" para los usuarios de Android, esta llegará en la próxima actualización.
+- Se ha actualizado el juego a Unity 2022 para una mejor compatibilidad y estabilidad (Esperamos que haya menos crasheos).
+- Se ha organizado un poco el menú principal para una mejor comodidad.
+- Se ha mejorado el tiempo de carga de los niveles.
+- Se ha ajustado el color de los textos de los botones.
+- Arreglada compatibilidad con emuladores, ya podéis jugar tranquilamente en emuladores de Android.
+- Arreglada intensidad de la luz a la hora de que Foxy pasa por la derecha en el nivel 1.
+- Arregladas cinemáticas, espero que ahora vayan bien T_T.
+- Arreglado error que provocaba que cuando te pasas el nivel 2 este te saca al menú principal.
+- Arreglado sonido de las cinemáticas."
+"v0.3.2/Title",10210644439040,"v0.3.2","v0.3.2","v0.3.2","v0.3.2"
+"v0.3.2/Desc",10213194575872,"- Fixed an error that was causing progress not to be saved or loaded correctly.",,,"- Arreglado error que provocaba que no se guardara ni cargara el progreso correctamente."
+"v0.3.3/Title",10215677603840,"v0.3.3","v0.3.3","v0.3.3","v0.3.3"
+"v0.3.3/Desc",10218026414080,"- Added new animations to level 3, including hands of David holding, storing, or taking out the flashlight. Additionally, when you blind Chica, there will be an animation as if the flashlight is getting electrocuted.
+- Added new short-circuit particles when blinding Chica in level 3.
+- Added a notification panel when unlocking achievements during the game.
+- Introduced new achievements. Please note that these are not available on Google Play as they are temporary for the BETA and currently lack images. Therefore, a ""?"" will appear when you unlock them.
+- Included a small Easter Egg in level 1.
+- Improved animation for forcing the door in level 3.
+- Updated plugins.
+- Retrieved the paper from the cup in level 1.
+- Enhanced sound latency.
+- Slightly improved game lighting quality.
+- Enabled FXAA Anti-Aliasing for Android at ""Medium"" quality.
+- Technically changed the settings saving mode for better compatibility.
+- Reduced game size on Android.
+- Reduced game size on PC.
+- Compressed textures using an algorithm for better in-game performance.
+- Adjusted certain Unity settings to hopefully reduce the number of crashes on Android.
+- Re-exported some textures with better quality, including those in level 3.
+- Re-exported all cinematics with a new encoder, aiming to eliminate slowdowns. T_T
+- Implemented various code optimizations for improved performance.
+- Fixed Chica's audio in level 3; it will now be properly synchronized with the animation.
+- Rectified emissive issues on the robots, as they were incorrectly displayed through certain parts of the model.
+- Fixed an error preventing the Sentry API from monitoring crashes and errors.
+- Resolved an error causing a ""NullException"" when checking the game version without an internet connection.
+- Fixed ""popping"" of certain textures.",,,"- Añadido nuevas animaciones al nivel 3 entre ellas, ahora se verá las manos de David agarrando la linterna, guardándola, o sacándola, también cuando deslumbras a Chica hará una animación como que la linterna se electrocuta.
+- Añadido nuevas partículas de cortocircuito al deslumbrar a Chica en el nivel 3.
+- Añadido panel de notificación cuando desbloqueas algún logro durante la partida.
+- Añadidos nuevos logros. Tened en cuenta que estos no están en Google Play debido a que son temporales de la BETA y aún no tienen imagen, así que saldrá un ""?"" cuando lo desbloqueéis.
+- Añadido pequeño Easter Egg en el nivel 1.
+- Mejorada animación de forzar la puerta del nivel 3.
+- Actualizado plugins.
+- Recuperado papel de la taza en el nivel 1.
+- Se ha mejorado la latencia del sonido.
+- Se ha mejorado ligeramente la calidad de las luces del juego.
+- Se ha habilitado el Anti-Aliasing FXAA para Android en la calidad ""Media"".
+- Se ha cambiado a nivel técnico el modo de guardado de los ajustes para una mejor compatibilidad.
+- Se ha reducido el tamaño del juego en Android.
+- Se ha reducido el tamaño del juego en PC.
+- Se han comprimido las texturas con un algoritmo el cual da un mejor rendimiento a la hora de jugar.
+- Se han cambiado ciertas configuraciones de Unity, las cuales esperamos que reduzca el número de crasheos en Android.
+- Se han reexportado algunas texturas con mejor calidad, entre ellas las del nivel 3.
+- Se han reexportado todas las cinemáticas con un nuevo codificador, esperamos que ahora no se ralenticen. T_T
+- Se han hecho diversas optimizaciones a nivel de código para un mejor rendimiento.
+- Se ha arreglado el audio de Chica en el nivel 3, ahora estará bien sincronizado con la animación.
+- Se han arreglado los emisivos de los robots, ya que se mostraban a través de ciertas partes del modelo de forma incorrecta.
+- Se ha arreglado un error que provocaba que la API de Sentry no pudiera monitorizar los crasheos y errores.
+- Arreglado error que provocaba un ""NullException"" a la hora de comprobar la versión del juego y no tener conexión a internet.
+- Arreglado ""popping"" de ciertas texturas."
+"v0.3.4/Title",11104844886016,"v0.3.4","v0.3.4","v0.3.4","v0.3.4"
+"v0.3.4/Desc",11107764121600,"- Added ""High"" graphics quality option on Android.
+- Added system to obtain diagnostics about the game's performance on Android.
+- Reduced Post Processing quality for ""Medium"" graphics quality.
+- Fixed false positive alert.
+- Fixed a minor error with the ""Fade"" transition.
+- Fixed crashing on Adreno GPU (Or so we believe...).
+- Fixed error when setting a standard resolution on Windows 7.",,,"- Añadida opción de calidad gráfica ""Alta"" en Android.
+- Añadido sistema para obtener diagnósticos sobre el rendimiento del juego en Android.
+- Se ha reducido la calidad del Post Procesado de la calidad gráfica ""Media"".
+- Arreglado alerta de falso positivo.
+- Arreglado un pequeño error con la transición ""Fade"".
+- Arreglado crasheo en GPU Aderno (O eso creemos...).
+- Arreglado error al poner una resolución estándar en Windows 7."
+"v0.3.5/Title",11111924871168,"v0.3.5","v0.3.5","v0.3.5","v0.3.5"
+"v0.3.5/Desc",11114508562432,"- A menu has been added to select a level you have completed.
+- An ""Ultra"" graphical option has been added for PC.
+- A button has been added to open our Ko-Fi in main menu and the credits in case you want to make a donation.
+- Optimized all models, textures, animations, and sounds.
+- Optimized file size.
+- The game will no longer load the ""Pre Main Menu"" but will go directly to the ""Main Menu"".
+- The game will now detect if the player has found any ""Easter Eggs"" and will warn them that clicking ""New Game"" will reset all progress.
+- Settings are now loaded immediately upon starting the game.
+- The rarest achievements will now appear first in the achievements menu.
+- The game will now unload unnecessary assets when loading a level.
+- Clicking ""New Game"" will now reset the ""Easter Eggs"".
+- The credits menu has been changed.
+- The position of the level 3 flashlight on Android has been adjusted.
+- The lighting color has been improved.
+- All texture encoding has been changed to ETC2 for better compatibility on Android.
+- The textures for the golden versions have been completely changed.
+- Cinematic quality on Android has been improved.
+- Reduced game's RAM, CPU, and GPU consumption.
+- The ""Screen Scaling"" option has been removed since we have a configuration for each quality on Android.
+- The buttons on the main menu have been reorganized.
+- Unnecessary files, garbage, and plugins have been removed.
+- Loading screen tips have been removed.
+- Loading screens have been changed.
+- Emissive textures have been enabled for Android.
+- The player's camera position has been readjusted in some ""Jumpscares"".
+- Fixed an error that caused the game to crash when clicking ""New Game"".
+- Fixed an error that prevented settings from being applied correctly.
+- Fixed an error that caused a small distortion after finishing a sound.
+- Fixed an error when checking for the latest version.
+- Fixed interactions with the level 1 poles that could be touched during the cinematic.",,,"- Se ha añadido un menú para seleccionar un nivel que hayas completado.
+- Se ha añadido una opción gráfica ""Ultra"" para PC.
+- Se ha añadido un botón para abrir nuestro Ko-Fi en el menu principal y en los créditos por si nos queréis hacer una donación.
+- Optimizado todos los modelos, texturas, animaciones y sonidos.
+- Optimizado tamaño de los archivos.
+- El juego ya no cargará el ""Pre Main Menu"" sino que irá directo al ""Menu Princiapl"".
+- El juego ahora detectará si el jugador ha hecho algún ""Easter Egg"" y le avisará que al dar clic en ""Nueva Partida"" se restablecerá todo el progreso.
+- Ahora los ajustes se cargan nada más iniciar el juego.
+- Ahora los logros más raros aparecerán primero en el menú de logros.
+- Ahora el juego descargará los ""Assets"" innecesarios al cargar algún nivel.
+- Ahora, al darle a ""Nueva Partida"" reiniciará los ""Easter Eggs"".
+- Se ha cambiado el menú de los créditos.
+- Se ha cambiado toda la codificación de las texturas a ETC2 para una mejor compatibilidad en Android.
+- Se ha cambiado por completo las texturas de las versiones doradas.
+- Se ha mejorado la calidad de las cinemáticas en Android.
+- Se ha ajustado la posición de la linterna del nivel 3 en Android.
+- Se ha mejorado el color de la iluminación.
+- Se ha reducido el consumo de RAM, CPU y GPU del juego.
+- Se ha eliminado la opción de ""Escalado de pantalla"" ja que tenemos una configuración para cada calidad en Android.
+- Se ha reorganizado los botones del menú principal.
+- Se han eliminado archivos, basura y plug-ins innecesarios.
+- Se han eliminado los consejos de las pantallas de carga.
+- Se han cambiado las pantallas de carga.
+- Se han activado las texturas emisivas para Android.
+- Se han reajustado la posición de la cámara del jugador en algunos ""Jumpscares"".
+- Arreglado error el cual crasheaba a la hora de darle a ""Nueva Partida"".
+- Arreglado error el cual provocaba que no se aplicaran correctamente las configuraciones.
+- Arreglado error el cual provocaba que al terminar algún sonido se escuchara una pequeña distorsión.
+- Arreglado error a la hora de comprobar la versión más reciente.
+- Arregladas iteraciones con los postes del nivel 1 los cuales podías tocar durante la cinemática."
+"v0.3.6/Title",11117461352448,"v0.3.6","v0.3.6","v0.3.6","v0.3.6"
+"v0.3.6/Desc",11119944380416,"- An option has been added on Android to enable 60 FPS, but we want to warn that this option may cause crashes on certain devices.
+- Ko-Fi donors have been added to the credits (Many thanks to Momo for the support <3).
+- The default FPS limit on Android has been set to 30 FPS. This is because certain crashes are caused by the high game consumption, and with this change, we aim to prevent the device components from working at maximum capacity, which could lead to the system closing the game.
+- The difficulty of level 1 has been rebalanced, now the animatronics will be slightly faster, and it takes a bit longer to recharge the batteries.
+- Several optimizations have been made to the levels.
+- Texture colors have been corrected, including those of the golden animatronics.
+- Some spelling mistakes have been fixed.
+- Chica's animations have been fixed; now there should be no sudden changes, and she should not pass through the ground at certain moments.
+- Chica's hitbox has been fixed; now she will be stationary for better comfort.
+- A bug that caused Freddy and Foxy to appear in the same location has been fixed.
+- A bug that allowed you to keep shining the light on Chica without using battery has been fixed.
+- A bug that caused interface buttons to duplicate on certain devices has been fixed. (We believe so...)
+- Chica's position has been corrected. She should now appear correctly.
+NOTE: If you want to appear in the supporters section, all you need to do is make a donation, even if it's just 1€ on Ko-Fi. By doing that, you will appear on the list, and depending on the amount you donate, your name will be placed higher on the list.",,,"- Se ha añadido una opción en Android para activar los 60 FPS, queremos advertir que esta opción podría provocar crasheos en ciertos dispositivos.
+- Se ha añadido a los donantes de Ko-Fi en los créditos (Muchas gracias a Momo por el apoyo <3).
+- Se ha limitado el juego a 30 FPS en Android de forma predeterminada, esto es debido a que ciertos crasheos son provocados por el alto consumo que requiere el juego, con este cambio intentamos impedir que los componentes del dispositivo trabajen a máxima potencia y puedan provocar que el sistema cierre el juego.
+- Se ha re-balanceado la dificultad del nivel 1, ahora los animatronicos serán un poco más rápidos y se tarda un poco más en recargar las baterías.
+- Se han hecho varias optimizaciones en los niveles.
+- Se han corregido colores de texturas, entre ellas la de los animatronicos dorados.
+- Se han arreglado algunas faltas de ortografía.
+- Se han arreglado las animaciones de Chica, ahora ya no debería dar cambios repentinos ni atravesar en ciertos momentos el suelo.
+- Se ha arreglado la hitbox de Chica, ahora estará estática en el sitio para una mejor comodidad.
+- Se ha arreglado un bug que provocaba que Freddy y Foxy pudieran aparecer en el mismo sitio.
+- Se ha arreglado un bug que provocaba que pudieras seguir iluminando a Chica sin tener batería.
+- Se ha arreglado un bug que provocaba que los botones de la interfaz se duplicaran en ciertos dispositivos. (Eso creemos...)
+- Se ha arreglado la posición de Chica. Ahora ya debería aparecer correctamente.
+NOTA: Quien quiera aparecer en la sección de donantes simplemente tenéis que hacer una donación, ya sea de 1€, en Ko-Fi, haciendo eso apareceréis en la lista, eso sí, dependiendo la cantidad que donéis, aparecería más arriba de la lista."
+"v0.3.7/Title",11121890537472,"v0.3.7","v0.3.7","v0.3.7","v0.3.7"
+"v0.3.7/Desc",11124943990784,"- Several optimizations have been made, reducing GPU usage by 10-15%. These values have been obtained using some test phones.
+- Fixed a bug that caused Foxy's jumpscare not to appear when the player is on the PC of level 1, which was causing the entire game to freeze.
+- Fixed a bug that prevented Freddy's jumpscare from being activated.",,,"- Hecho varias optimizaciones, se ha reducido el uso de la GPU entre un 10-15%. Estos valores los hemos obtenido con algunos teléfonos de prueba.
+- Arreglado bug que provocaba que el jumpscare de Foxy no apareciera cuando el jugador está en el PC del nivel 1 y este provocara que se bloqueara todo el juego.
+- Arreglado bug que provocaba que el jumpscare de Freddy no se activase."
+"v0.3.8/Title",11127460573184,"v0.3.8","v0.3.8","v0.3.8","v0.3.8"
+"v0.3.8/Desc",11129977155584,"- A small waiting time has been added between Freddy and Foxy's sounds in level 1.
+- Cinematics have been re-imported to address sudden quality drops.
+- Animatronic shadows have been optimized.
+- Descriptions of some achievements have been changed.
+- The flashlight recharge time in level 2 has been slightly reduced.
+- Fixed an issue causing Freddy to continue the countdown to attack while Foxy performs his animation.
+- Fixed an error causing poor sound quality when using headphones.",,,"- Se ha añadido un pequeño tiempo de espera entre el sonido de Freddy y Foxy en el nivel 1.
+- Hemos reimportado las cinemáticas para intentar solucionar las bajadas de calidad repentinas.
+- Se han optimizado las sombras de los animatronicos.
+- Se han cambiado las descripciones de algunos logros.
+- Se ha reducido un poco el tiempo de recarga de la linterna en el nivel 2.
+- Se ha arreglado un error que provocaba que Freddy siguiera haciendo la cuenta atrás para atacar mientras Foxy hace su animación.
+- Se ha arreglado un error que provocaba una mala calidad en los sonidos al usar auriculares."
+"v0.3.9/Title",11942963294208,"v0.3.9","v0.3.9","v0.3.9","v0.3.9"
+"v0.3.9/Desc",11945978998784,"- Updated donor list in the credits. Many thanks to ItsFunnyDog, Eros, Meyer Veloso, and Alfredo.
+- Added a teaser for level 4.
+- Added an option to enable or disable 3D sound. (Some sounds, like those in level 3, are not in 3D due to the severe rework planned for level 3).
+- Massive code optimization.
+- Game size optimization.
+- Optimized GPU consumption when starting a cinematic.
+- Improved jumpscares for Freddy and Springtrap.
+- Phantom Mangle will now give 3 sound warnings before attacking the player, with each sound at a specific volume depending on the distance.
+- Increased battery time in level 3.
+- Increased Foxy's animation speed when searching the office.
+- Reduced wait time for Springtrap's jumpscare.
+- Partially improved randomness for all enemies.
+- Increased the ""hitbox"" for turning the fan on/off.
+- Increased Chica's ""hitbox"".
+- An error that was causing random pixel aberrations in the cinematics has been fixed.
+- Fixed a bug causing button disappearance when rapidly rotating the camera in level 2.
+- Fixed a bug allowing Foxy and Freddy to appear in the same location.
+- Fixed a bug causing the door health to continue decreasing during Foxy's animation.
+- Fixed a bug causing the bite poster to disappear.
+- Fixed a spelling error in an achievement.
+- Fixed the texture of the golden cake in level 2.
+- Fixed Freddy and Foxy sounds, preventing them from overlapping.",,,"- Actualizado lista de donadores en los créditos. Muchas gracias a ItsFunnyDog, Eros, Meyer Veloso y Alfredo.
+- Añadido ""teaser"" del nivel 4.
+- Añadida opción para activar o desactivar el sonido en 3D. (Hay algunos sonidos como los del nivel 3 que no están en 3D, esto es debido a que el nivel 3 sufrirá un severo rework).
+- Optimización masiva de código.
+- Optimización del tamaño del juego.
+- Optimizado consume de GPU al iniciar una cinemática.
+- Se han mejorado los jumpscares de Freddy y Sprigntrap.
+- Ahora Phantom Mangle dará 3 avisos de sonido antes de atacar al jugador, cada sonido estará a un volumen determinado dependiendo la distancia con él.
+- Se ha aumentado el tiempo de la batería en el nivel 3.
+- Se ha aumentado la velocidad de la animación de Foxy al buscar en la oficina.
+- Se ha reducido el tiempo de espera para el jumpscare de Springtrap.
+- Se ha mejorado parcialmente la aleatoriedad de todos los enemigos.
+- Se ha aumentado la ""hitbox"" para apagar/encender el ventilador.
+- Se ha aumentado la ""hitbox"" de Chica.
+- Se ha arreglado un error que provocaba aleatoriamente aberraciones pixeladas en las cinemáticas.
+- Se ha arreglado un error que provocaba la desaparición de los botones al girar rápidamente la cámara en el nivel 2.
+- Se ha arreglado un error que provocaba que Foxy y Freddy pudieran aparecer en el mismo lugar.
+- Se ha arreglado un error que provocaba que la salud de la puerta siguiera bajando durante la animación de Foxy.
+- Se ha arreglado un error que provocaba que el póster de la mordida desapareciera.
+- Se ha arreglado una falta de ortografía de un logro.
+- Se ha arreglado la textura de la tarta dorada del nivel 2.
+- Se han arreglado los sonidos de Freddy y Foxy. Ahora ya no se tendría que solapar entre ellos."
+"v0.3.10/Title",11948302643200,"v0.3.10","v0.3.10","v0.3.10","v0.3.10"
+"v0.3.10/Desc",11950689202176,"- Subtitles have been added to the final cinematic.
+- The text in the version has been partially changed; now the ""beta"" tag will be present until the game is released.
+- The name of Mangle Clone has been changed to Phantom Mangle.
+- The animation transition for both Mangle and Phantom Mangle has been improved.
+- The effect of Mangle approaching the player has been enhanced.
+- Random enemy spawns in level 1 have been eliminated (they will now consistently appear at specific time intervals).
+- The battery charging speed in level 1 has been increased.
+- The attack range of Phantom Mangle has been slightly extended.
+- Freddy's laughter volume has been increased.
+- The sound volume of Springtrap being electrocuted in level 1 has been reduced.
+- The flashlight recharge time in level 2 has been adjusted.
+- The spawn times for level 1 and 2 have been adjusted.
+- The attack times for level 1 and 2 have been adjusted.
+- Phantom Mangle will now not give its first warning until the player progresses.
+- Animation positions in level 2 have been corrected.",,,"- Se han agregado subtitulos a la cinematica final.
+- Se ha cambiado parcialmente el texto de la versión, ahora estará la etiqueta ""beta"" al final asta la salida del juego.
+- Se ha cambiado el nombre de Clon de Mangle a Phantom Mangle.
+- Se ha mejorado la transicion de animaciones de Mangle y Phantom Mangle.
+- Se ha mejorado el efecto de Mangle al acercarse al jugador.
+- Se ha eliminado la aleatoriedad de aparecer un enemigo en el nivel 1 (Ahora siempre apareceran con cierto margen de tiempo).
+- Se ha aumentado la velocidad de carga de las baterias del nivel 1.
+- Se ha aumentado ligeramente la distancia en la que ataca Phantom Mangle.
+- Se ha aumentado el volumen de la risa de Freddy.
+- Se ha reducido el volumen del sonido que hace Springtrap al ser electrocutado en el nivel 1.
+- Se ha ajustado el tiempo de recarga de la linterna del nivel 2.
+- Se han ajustado los tiempos de aparicion del nivel 1 y 2.
+- Se han ajustado los tiempos de ataque del nivel 1 y 2.
+- Ahora Phantom Mangle no hara su primer aviso asta que el jugador avance.
+- Se han corregido posiciones de las animaciones en el nivel 2."
+"v0.4/Title",11953340002304,"v0.4 (The Level 4)",,,"v0.4 (El Nivel 4)"
+"v0.4/Desc",11955453931520,"- Added level 4 (Currently, it does not have an Easter Egg).
+- Added cinematic for level 4.
+- Added 3 new achievements. (In the next update, we will add 3 more).
+- Organized translation tables.
+- Now in level 3, Cupcakes will start moving when you shine light on them.
+- Optimized some scripts and models.
+NOTE: Keep in mind that level 4 may be a bit unbalanced and may be missing some elements (such as the tutorial). As we release patches, we will balance, fix, and add what is missing to the level.",,,"- Añadido nivel 4 (Por ahora no tiene Easter Egg).
+- Añadida cinemática del nivel 4.
+- Añadido 3 nuevos logros. (En la próxima actualización añadiremos 3 más).
+- Organizadas tablas de traducciones.
+- Ahora en el nivel 3 los Cupcakes se empezarán a mover cuando los alumbres.
+- Se han optimizado algunos scripts y modelos.
+NOTA: Tened en cuenta que el nivel 4 puede estar un poco desbalanceado y faltar algunas cosas (Por ejemplo el tutorial), conforme vayamos sacando parches iremos balanceando, arreglando y añadiendo lo que le falta al nivel."
+"v0.4.1/Title",11957303619584,"v0.4.1 (Hot Fix)",,,"v0.4.1 (Arreglos)"
+"v0.4.1/Desc",12673401335808,"- Optimized Chica's animations.
+- Optimized Foxy's animations.
+- Optimized code.
+- Increased the time it takes for Foxy to appear.
+- Increased the time Chica takes to open the door.
+- Modified the timing of the static video to prevent it from freezing.
+- Started giving names to the updates.
+- Fixed a bug that did not trigger Chica's animation when attempting to repair the door in its first phase.
+- Fixed a bug that allowed repairing the door right at the moment of animation change, causing Chica to stop functioning completely.
+- Fixed the positions of the animatronics.
+- Fixed Foxy's animations, which could appear in incorrect positions.
+- Fixed a bug that caused the UI to disappear in certain parts.
+- Fixed a bug that caused certain texts to stop rendering.
+- Fixed a bug that prevented the red lights from turning on or off at the right moment.
+- Fixed some audio issues that could sound incorrect or not play at all.",,,"- Optimizadas animaciones de Chica.
+- Optimizadas animaciones de Foxy.
+- Optimizado código.
+- Se ha aumentado el tiempo que tarda Foxy en aparecer.
+- Se ha aumentado el tiempo que Chica tarda en abrir la puerta.
+- Se ha modificado el tiempo del video de la estática para evitar que esta quede congelada.
+- Empezando a ponerle nombres a las actualizaciones.
+- Arreglado bug, el cual no activaba la animación de Chica al intentar reparar la puerta en su primera fase.
+- Arreglado bug, el cual permitía arreglar la puerta justo en el momento de cambiar de animación, esto provocaba que Chica dejara de funcionar completamente.
+- Arreglado las posiciones de los animatronicos.
+- Arreglado las animaciones de Foxy las cuales podían salir en posiciones incorrectas.
+- Arreglado bug, el cual provocaba en ciertas partes que el UI desapareciera.
+- Arreglado bug, el cual provocaba que ciertos textos dejaran de renderizarse.
+- Arreglado bug que provocaba que las luces rojas no se apagaran o encendieran al momento.
+- Arreglado algunos audios, los cuales podían sonar mal o directamente no sonar."
