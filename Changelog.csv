@@ -863,7 +863,7 @@ NOTA: Quien quiera aparecer en la sección de donantes simplemente tenéis que h
 - Se han ajustado los tiempos de ataque del nivel 1 y 2.
 - Ahora Phantom Mangle no hara su primer aviso asta que el jugador avance.
 - Se han corregido posiciones de las animaciones en el nivel 2."
-"v0.4/Title",11953340002304,"v0.4 (The Level 4)","v0.4 (O Nível 4)",,"v0.4 (El Nivel 4)"
+"v0.4/Title",11953340002304,"v0.4 (The Level 4)","v0.4 (O Nível 4)","v0.4 (Уровень 4)","v0.4 (El Nivel 4)"
 "v0.4/Desc",11955453931520,"- Added level 4 (Currently, it does not have an Easter Egg).
 - Added cinematic for level 4.
 - Added 3 new achievements. (In the next update, we will add 3 more).
@@ -883,7 +883,7 @@ OBSERVAÇÃO: Tenha em mente que o nível 4 pode estar um pouco desbalanceado e 
 - Ahora en el nivel 3 los Cupcakes se empezarán a mover cuando los alumbres.
 - Se han optimizado algunos scripts y modelos.
 NOTA: Tened en cuenta que el nivel 4 puede estar un poco desbalanceado y faltar algunas cosas (Por ejemplo el tutorial), conforme vayamos sacando parches iremos balanceando, arreglando y añadiendo lo que le falta al nivel."
-"v0.4.1/Title",11957303619584,"v0.4.1 (Hot Fix)","v0.4.1 (Correção Urgente)",,"v0.4.1 (Arreglos)"
+"v0.4.1/Title",11957303619584,"v0.4.1 (Hot Fix)","v0.4.1 (Correções)","v0.4.1 (Исправления)","v0.4.1 (Arreglos)"
 "v0.4.1/Desc",12673401335808,"- Optimized Chica's animations.
 - Optimized Foxy's animations.
 - Optimized code.
@@ -927,24 +927,39 @@ NOTA: Tened en cuenta que el nivel 4 puede estar un poco desbalanceado y faltar 
 - Arreglado bug, el cual provocaba que ciertos textos dejaran de renderizarse.
 - Arreglado bug que provocaba que las luces rojas no se apagaran o encendieran al momento.
 - Arreglado algunos audios, los cuales podían sonar mal o directamente no sonar."
-"v0.4.2/Title",1446482114097152,"v0.4.2 (Fixes & Translations)","v0.4.2 (Correções e Traduções)",,"v0.4.2 (Arreglos y Traducciones)"
-"v0.4.2/Desc",1446487252119552,"- Russian and Portuguese languages have been added (Some translations are still pending).
+"v0.4.2/Title",1446482114097152,"v0.4.2 (Fixes & Translations)","v0.4.2 (Correções e Traduções)","v0.4.2 (Исправления и Переводы)","v0.4.2 (Arreglos y Traducciones)"
+"v0.4.2/Desc",1446487252119552,"- Russian and Portuguese languages have been added (Some things still need to be translated). Thanks to Marlon Italo and _krytoi_kot__93669 for helping us translate the game.
+- Tutorial added to level 4.
 - Help points have been added to identify interactable objects in level 4; these will disappear after 30 seconds.
-- Part of the tutorial for level 4 has been added (Some icons are yet to be added).
-- The text font for the tutorials has been changed.
-- The text font has been updated to display Russian characters.
-- A bug causing text to appear cut/broken has been fixed.
-- A bug causing animations to continue running during and after the scare in level 4 has been fixed.
-NOTE: The ""Changelogs"" section is still pending translation into Russian.","- Os idiomas russo e português foram adicionados (algumas traduções ainda estão pendentes).
+- Images have been added to all achievements.
+- Credits have been updated.
+- Text font has been updated to display Russian characters.
+- Text font for tutorials has been changed.
+- Fixed an error that caused text to appear cut/broken.
+- Fixed an error that caused animations to continue running during and after the scare in level 4.
+NOTE: The ""Changelogs"" section still needs to be translated into Russian.","- Adicionados os idiomas russo e português (ainda falta traduzir algumas coisas). Obrigado a Marlon Italo e _krytoi_kot__93669 por nos ajudarem a traduzir o jogo.
+- Tutorial adicionado ao nível 4.
 - Foram adicionados pontos de ajuda para identificar objetos interativos no nível 4; estes desaparecerão após 30 segundos.
-- Parte do tutorial do nível 4 foi adicionada (ainda é necessário adicionar alguns ícones).
-- A fonte de texto para os tutoriais foi alterada.
-- A fonte de texto foi atualizada para exibir caracteres russos.
-- Um erro que fazia com que os textos aparecessem cortados/quebrados foi corrigido.
-- Um erro que fazia com que as animações continuassem sendo executadas durante e após o susto no nível 4 foi corrigido.
-NOTA: A tradução da seção de ""Changelogs"" para o russo ainda está pendente.",,"- Se ha añadido los idiomas ruso y portugués (Aún falta traducir algunas cosas).
+- Imagens foram adicionadas a todas as conquistas.
+- Os créditos foram atualizados.
+- A fonte de texto foi atualizada para mostrar caracteres russos.
+- A fonte de texto para tutoriais foi alterada.
+- Corrigido um erro que causava a aparência de textos cortados/quebrados.
+- Corrigido um erro que fazia com que as animações continuassem sendo executadas durante e após o susto no nível 4.
+NOTA: A parte dos ""Changelogs"" ainda precisa ser traduzida para o russo.","- Добавлены русский и португальский языки (некоторые вещи все еще нужно перевести). Спасибо Марлону Итало и _krytoi_kot__93669 за помощь в переводе игры.
+- Добавлен учебник на 4 уровень.
+- Добавлены точки помощи для определения объектов взаимодействия на 4 уровне; они исчезнут через 30 секунд.
+- Ко всем достижениям добавлены изображения.
+- Обновлены титры.
+- Обновлен шрифт текста для отображения русских символов.
+- Изменен шрифт текста для учебников.
+- Исправлена ошибка, вызывавшая обрыв текста/нарушения.
+- Исправлена ошибка, из-за которой анимации продолжали выполняться во время и после испуга на 4 уровне.
+ПРИМЕЧАНИЕ: Текст раздела ""Changelogs"" все еще нужно перевести на русский.","- Se ha añadido los idiomas ruso y portugués (Aún falta traducir algunas cosas) Gracias Marlon Italo y _krytoi_kot__93669 por ayudarnos a traducir el juego.
+- Añadido tutorial al nivel 4.
 - Se ha añadido unos puntos de ayuda para saber qué objetos se pueden interactuar en el nivel 4, estos a los 30 segundos desaparecerán.
-- Se ha añadido parte del tutorial del nivel 4 (Aún queda añadir algunos iconos).
+- Se han añadido imágenes a todos los logros.
+- Se han actualizado los créditos.
 - Se ha actualizado la fuente de texto para que muestre los caracteres rusos.
 - Se ha cambiado la fuente de texto para los tutoriales.
 - Se ha arreglado un error que provocaba que los textos se vieran cortados/rotos.
