@@ -1,8 +1,8 @@
 ﻿Key,Id,English(en),Portuguese(pt),Russian(ru),Spanish(es)
-v0.1/Title,3562601295872,v0.1,v0.1,v0.1,v0.1
-v0.1/Desc,3731786936320,- First Alpha release.,- Primeiro lançamento da Alpha.,,- Primer lanzamiento de la Alpha.
-v0.1.1/Title,3849206476800,v0.1.1,v0.1.1,v0.1.1,v0.1.1
-v0.1.1/Desc,3895574507520,"- A new Easter Egg has been added.
+"v0.1/Title",3562601295872,"v0.1","v0.1","v0.1","v0.1"
+"v0.1/Desc",3731786936320,"- First Alpha release.","- Primeiro lançamento da Alpha.",,"- Primer lanzamiento de la Alpha."
+"v0.1.1/Title",3849206476800,"v0.1.1","v0.1.1","v0.1.1","v0.1.1"
+"v0.1.1/Desc",3895574507520,"- A new Easter Egg has been added.
 - Added a warning message when opening the game.
 - Added a static effect when you lose.
 - Added a button to report bugs in the main menu.
@@ -123,8 +123,8 @@ v0.1.1/Desc,3895574507520,"- A new Easter Egg has been added.
 - Se ha corregido un error que permitía que el ventilador siguiera funcionando cuando se cortaba la energía.
 - Se ha corregido un error por el cual el efecto de las luces en la oficina no se volvía a activar.
 - Se ha corregido un error que hacía que se escucharan sonidos después de un susto repentino."
-v0.2/Title,7217182257152,v0.2,v0.2,v0.2,v0.2
-v0.2/Desc,7339429441536,"- Added the full level 1 cinematic.
+"v0.2/Title",7217182257152,"v0.2","v0.2","v0.2","v0.2"
+"v0.2/Desc",7339429441536,"- Added the full level 1 cinematic.
 - Added the full level 2 cutscene.
 - Added level 2 which will face Burned Mangle in the vents.
 - Added progress saving system.
@@ -146,8 +146,8 @@ v0.2/Desc,7339429441536,"- Added the full level 1 cinematic.
 - Se han eliminado archivos innecesarios.
 - Se han optimizado los scripts.
 - Se han corregido pequeños errores."
-v0.2.1/Title,7951932043264,v0.2.1,v0.2.1,v0.2.1,v0.2.1
-v0.2.1/Desc,8008102162432,"- Added Easter Egg on level 2. Hint: It's a time trial.
+"v0.2.1/Title",7951932043264,"v0.2.1","v0.2.1","v0.2.1","v0.2.1"
+"v0.2.1/Desc",8008102162432,"- Added Easter Egg on level 2. Hint: It's a time trial.
 - Added icon in level 1 of security doors.
 - Added death screen which will show you who killed you along with an explanation of how to avoid it.
 - Added trick to go directly to level 2 from the main menu (Press the P key).
@@ -211,8 +211,8 @@ v0.2.1/Desc,8008102162432,"- Added Easter Egg on level 2. Hint: It's a time tria
 - Se han optimizado los materiales.
 - Se han optimizado los códigos.
 - Se han eliminado archivos innecesarios."
-v0.2.2/Title,8421211746304,v0.2.2,v0.2.2,v0.2.2,v0.2.2
-v0.2.2/Desc,8480301101056,"- The game is now in BETA state.
+"v0.2.2/Title",8421211746304,"v0.2.2","v0.2.2","v0.2.2","v0.2.2"
+"v0.2.2/Desc",8480301101056,"- The game is now in BETA state.
 - The project has been upgraded to URP for better quality and optimization.
 - Optimized models.
 - Optimized textures.
@@ -258,8 +258,8 @@ v0.2.2/Desc,8480301101056,"- The game is now in BETA state.
 - Se han ajustado las texturas para diferentes niveles de calidad y rendimiento en dispositivos móviles de gama baja.
 - Mejor compresión y detalle de modelos y texturas.
 - Se han eliminado ciertas opciones dentro del menú de configuración, ya que no son necesarias en Android."
-v0.2.3/Title,8977254821888,v0.2.3,v0.2.3,v0.2.3,v0.2.3
-v0.2.3/Desc,8980845146112,"- An automatic reporting system has been added to detect crashes/serious errors during gameplay.
+"v0.2.3/Title",8977254821888,"v0.2.3","v0.2.3","v0.2.3","v0.2.3"
+"v0.2.3/Desc",8980845146112,"- An automatic reporting system has been added to detect crashes/serious errors during gameplay.
 - A system has been added to display a pop-up window with details in case of an error.
 - A warning message has been added indicating that the game is in BETA phase.
 - For the Android version, a resolution adjustment option has been added to help optimize the game.
@@ -335,8 +335,8 @@ v0.2.3/Desc,8980845146112,"- An automatic reporting system has been added to det
 - Se ha solucionado el problema de desplazamiento de la cámara durante el susto repentino de Mangle.
 - Se han corregido los colores en las cinemáticas.
 - Se ha corregido un error que hacía que Foxy desapareciera inmediatamente después de su susto repentino."
-v0.2.4/Title,8988164206592,v0.2.4,v0.2.4,v0.2.4,v0.2.4
-v0.2.4/Desc,8991372849152,"- The fan in level 1 will now start in the ""on"" state when you begin playing.
+"v0.2.4/Title",8988164206592,"v0.2.4","v0.2.4","v0.2.4","v0.2.4"
+"v0.2.4/Desc",8991372849152,"- The fan in level 1 will now start in the ""on"" state when you begin playing.
 - Added an option in the settings to switch the game graphics from ""Medium"" to ""Low"" on Android. This is intended for users with lower-end devices.
 - Lowered the volume of Springtrap's electrocution sound.
 - Decreased the background sound of Springtrap.
@@ -382,8 +382,8 @@ v0.2.4/Desc,8991372849152,"- The fan in level 1 will now start in the ""on"" sta
 - Se corrigió la animación de Mangle al ser deslumbrado, ahora avanza según la distancia recorrida.
 - Se solucionó un problema donde no se escuchaban los pasos del clon de Mangle.
 - Se corrigieron las texturas de Mangle para una mejor apariencia visual."
-v0.3/Title,10196148924416,v0.3,v0.3,v0.3,v0.3
-v0.3/Desc,10198661312512,"- Level 3 has been added, please note that it is not 100% developed.
+"v0.3/Title",10196148924416,"v0.3","v0.3","v0.3","v0.3"
+"v0.3/Desc",10198661312512,"- Level 3 has been added, please note that it is not 100% developed.
 - A new introduction for our logo has been added.
 - A new window has been added to view the list of changes in this version.
 - A notice has been added that will appear when an outdated version is detected.
@@ -432,8 +432,8 @@ v0.3/Desc,10198661312512,"- Level 3 has been added, please note that it is not 1
 - Arreglado bug que provocaba que los botones de las baterías no se pudieran pulsar.
 - Arreglado bug que provocaba que no se aplicara bien la configuración.
 - Arreglado varios errores que provocaban crasheos."
-v0.3.1/Title,10204940185600,v0.3.1,v0.3.1,v0.3.1,v0.3.1
-v0.3.1/Desc,10208362737664,"- Added level 3 cinematics.
+"v0.3.1/Title",10204940185600,"v0.3.1","v0.3.1","v0.3.1","v0.3.1"
+"v0.3.1/Desc",10208362737664,"- Added level 3 cinematics.
 - Added Easter Egg to level 3.
 - Added a surprise for people who complete the BETA with all Easter Eggs from each level (There's only one per level).
 - Added an achievements system, currently, there's only one available, but in the next update, we'll add more, and in the final game, many more.
@@ -503,10 +503,10 @@ v0.3.1/Desc,10208362737664,"- Added level 3 cinematics.
 - Arregladas cinemáticas, espero que ahora vayan bien T_T.
 - Arreglado error que provocaba que cuando te pasas el nivel 2 este te saca al menú principal.
 - Arreglado sonido de las cinemáticas."
-v0.3.2/Title,10210644439040,v0.3.2,v0.3.2,v0.3.2,v0.3.2
-v0.3.2/Desc,10213194575872,- Fixed an error that was causing progress not to be saved or loaded correctly.,- Corrigido um erro que estava impedindo o progresso de ser salvo ou carregado corretamente.,,- Arreglado error que provocaba que no se guardara ni cargara el progreso correctamente.
-v0.3.3/Title,10215677603840,v0.3.3,v0.3.3,v0.3.3,v0.3.3
-v0.3.3/Desc,10218026414080,"- Added new animations to level 3, including hands of David holding, storing, or taking out the flashlight. Additionally, when you blind Chica, there will be an animation as if the flashlight is getting electrocuted.
+"v0.3.2/Title",10210644439040,"v0.3.2","v0.3.2","v0.3.2","v0.3.2"
+"v0.3.2/Desc",10213194575872,"- Fixed an error that was causing progress not to be saved or loaded correctly.","- Corrigido um erro que estava impedindo o progresso de ser salvo ou carregado corretamente.",,"- Arreglado error que provocaba que no se guardara ni cargara el progreso correctamente."
+"v0.3.3/Title",10215677603840,"v0.3.3","v0.3.3","v0.3.3","v0.3.3"
+"v0.3.3/Desc",10218026414080,"- Added new animations to level 3, including hands of David holding, storing, or taking out the flashlight. Additionally, when you blind Chica, there will be an animation as if the flashlight is getting electrocuted.
 - Added new short-circuit particles when blinding Chica in level 3.
 - Added a notification panel when unlocking achievements during the game.
 - Introduced new achievements. Please note that these are not available on Google Play as they are temporary for the BETA and currently lack images. Therefore, a ""?"" will appear when you unlock them.
@@ -576,8 +576,8 @@ v0.3.3/Desc,10218026414080,"- Added new animations to level 3, including hands o
 - Se ha arreglado un error que provocaba que la API de Sentry no pudiera monitorizar los crasheos y errores.
 - Arreglado error que provocaba un ""NullException"" a la hora de comprobar la versión del juego y no tener conexión a internet.
 - Arreglado ""popping"" de ciertas texturas."
-v0.3.4/Title,11104844886016,v0.3.4,v0.3.4,v0.3.4,v0.3.4
-v0.3.4/Desc,11107764121600,"- Added ""High"" graphics quality option on Android.
+"v0.3.4/Title",11104844886016,"v0.3.4","v0.3.4","v0.3.4","v0.3.4"
+"v0.3.4/Desc",11107764121600,"- Added ""High"" graphics quality option on Android.
 - Added system to obtain diagnostics about the game's performance on Android.
 - Reduced Post Processing quality for ""Medium"" graphics quality.
 - Fixed false positive alert.
@@ -596,8 +596,8 @@ v0.3.4/Desc,11107764121600,"- Added ""High"" graphics quality option on Android.
 - Arreglado un pequeño error con la transición ""Fade"".
 - Arreglado crasheo en GPU Aderno (O eso creemos...).
 - Arreglado error al poner una resolución estándar en Windows 7."
-v0.3.5/Title,11111924871168,v0.3.5,v0.3.5,v0.3.5,v0.3.5
-v0.3.5/Desc,11114508562432,"- A menu has been added to select a level you have completed.
+"v0.3.5/Title",11111924871168,"v0.3.5","v0.3.5","v0.3.5","v0.3.5"
+"v0.3.5/Desc",11114508562432,"- A menu has been added to select a level you have completed.
 - An ""Ultra"" graphical option has been added for PC.
 - A button has been added to open our Ko-Fi in main menu and the credits in case you want to make a donation.
 - Optimized all models, textures, animations, and sounds.
@@ -685,8 +685,8 @@ v0.3.5/Desc,11114508562432,"- A menu has been added to select a level you have c
 - Arreglado error el cual provocaba que al terminar algún sonido se escuchara una pequeña distorsión.
 - Arreglado error a la hora de comprobar la versión más reciente.
 - Arregladas iteraciones con los postes del nivel 1 los cuales podías tocar durante la cinemática."
-v0.3.6/Title,11117461352448,v0.3.6,v0.3.6,v0.3.6,v0.3.6
-v0.3.6/Desc,11119944380416,"- An option has been added on Android to enable 60 FPS, but we want to warn that this option may cause crashes on certain devices.
+"v0.3.6/Title",11117461352448,"v0.3.6","v0.3.6","v0.3.6","v0.3.6"
+"v0.3.6/Desc",11119944380416,"- An option has been added on Android to enable 60 FPS, but we want to warn that this option may cause crashes on certain devices.
 - Ko-Fi donors have been added to the credits (Many thanks to Momo for the support <3).
 - The default FPS limit on Android has been set to 30 FPS. This is because certain crashes are caused by the high game consumption, and with this change, we aim to prevent the device components from working at maximum capacity, which could lead to the system closing the game.
 - The difficulty of level 1 has been rebalanced, now the animatronics will be slightly faster, and it takes a bit longer to recharge the batteries.
@@ -726,16 +726,16 @@ OBSERVAÇÃO: Se você deseja aparecer na seção de apoiadores, tudo que precis
 - Se ha arreglado un bug que provocaba que los botones de la interfaz se duplicaran en ciertos dispositivos. (Eso creemos...)
 - Se ha arreglado la posición de Chica. Ahora ya debería aparecer correctamente.
 NOTA: Quien quiera aparecer en la sección de donantes simplemente tenéis que hacer una donación, ya sea de 1€, en Ko-Fi, haciendo eso apareceréis en la lista, eso sí, dependiendo la cantidad que donéis, aparecería más arriba de la lista."
-v0.3.7/Title,11121890537472,v0.3.7,v0.3.7,v0.3.7,v0.3.7
-v0.3.7/Desc,11124943990784,"- Several optimizations have been made, reducing GPU usage by 10-15%. These values have been obtained using some test phones.
+"v0.3.7/Title",11121890537472,"v0.3.7","v0.3.7","v0.3.7","v0.3.7"
+"v0.3.7/Desc",11124943990784,"- Several optimizations have been made, reducing GPU usage by 10-15%. These values have been obtained using some test phones.
 - Fixed a bug that caused Foxy's jumpscare not to appear when the player is on the PC of level 1, which was causing the entire game to freeze.
 - Fixed a bug that prevented Freddy's jumpscare from being activated.","- Foram feitas várias otimizações, reduzindo o uso da GPU em 10-15%. Esses valores foram obtidos usando alguns telefones de teste.
 - Corrigido um bug que fazia o jumpscare do Foxy não aparecer quando o jogador está no PC do nível 1, o que estava causando o congelamento do jogo inteiro.
 - Corrigido um bug que impedia a ativação do jumpscare do Freddy.",,"- Hecho varias optimizaciones, se ha reducido el uso de la GPU entre un 10-15%. Estos valores los hemos obtenido con algunos teléfonos de prueba.
 - Arreglado bug que provocaba que el jumpscare de Foxy no apareciera cuando el jugador está en el PC del nivel 1 y este provocara que se bloqueara todo el juego.
 - Arreglado bug que provocaba que el jumpscare de Freddy no se activase."
-v0.3.8/Title,11127460573184,v0.3.8,v0.3.8,v0.3.8,v0.3.8
-v0.3.8/Desc,11129977155584,"- A small waiting time has been added between Freddy and Foxy's sounds in level 1.
+"v0.3.8/Title",11127460573184,"v0.3.8","v0.3.8","v0.3.8","v0.3.8"
+"v0.3.8/Desc",11129977155584,"- A small waiting time has been added between Freddy and Foxy's sounds in level 1.
 - Cinematics have been re-imported to address sudden quality drops.
 - Animatronic shadows have been optimized.
 - Descriptions of some achievements have been changed.
@@ -754,8 +754,8 @@ v0.3.8/Desc,11129977155584,"- A small waiting time has been added between Freddy
 - Se ha reducido un poco el tiempo de recarga de la linterna en el nivel 2.
 - Se ha arreglado un error que provocaba que Freddy siguiera haciendo la cuenta atrás para atacar mientras Foxy hace su animación.
 - Se ha arreglado un error que provocaba una mala calidad en los sonidos al usar auriculares."
-v0.3.9/Title,11942963294208,v0.3.9,v0.3.9,v0.3.9,v0.3.9
-v0.3.9/Desc,11945978998784,"- Updated donor list in the credits. Many thanks to ItsFunnyDog, Eros, Meyer Veloso, and Alfredo.
+"v0.3.9/Title",11942963294208,"v0.3.9","v0.3.9","v0.3.9","v0.3.9"
+"v0.3.9/Desc",11945978998784,"- Updated donor list in the credits. Many thanks to ItsFunnyDog, Eros, Meyer Veloso, and Alfredo.
 - Added a teaser for level 4.
 - Added an option to enable or disable 3D sound. (Some sounds, like those in level 3, are not in 3D due to the severe rework planned for level 3).
 - Massive code optimization.
@@ -819,8 +819,8 @@ v0.3.9/Desc,11945978998784,"- Updated donor list in the credits. Many thanks to 
 - Se ha arreglado una falta de ortografía de un logro.
 - Se ha arreglado la textura de la tarta dorada del nivel 2.
 - Se han arreglado los sonidos de Freddy y Foxy. Ahora ya no se tendría que solapar entre ellos."
-v0.3.10/Title,11948302643200,v0.3.10,v0.3.10,v0.3.10,v0.3.10
-v0.3.10/Desc,11950689202176,"- Subtitles have been added to the final cinematic.
+"v0.3.10/Title",11948302643200,"v0.3.10","v0.3.10","v0.3.10","v0.3.10"
+"v0.3.10/Desc",11950689202176,"- Subtitles have been added to the final cinematic.
 - The text in the version has been partially changed; now the ""beta"" tag will be present until the game is released.
 - The name of Mangle Clone has been changed to Phantom Mangle.
 - The animation transition for both Mangle and Phantom Mangle has been improved.
@@ -863,8 +863,8 @@ v0.3.10/Desc,11950689202176,"- Subtitles have been added to the final cinematic.
 - Se han ajustado los tiempos de ataque del nivel 1 y 2.
 - Ahora Phantom Mangle no hara su primer aviso asta que el jugador avance.
 - Se han corregido posiciones de las animaciones en el nivel 2."
-v0.4/Title,11953340002304,v0.4 (The Level 4),v0.4 (O Nível 4),,v0.4 (El Nivel 4)
-v0.4/Desc,11955453931520,"- Added level 4 (Currently, it does not have an Easter Egg).
+"v0.4/Title",11953340002304,"v0.4 (The Level 4)","v0.4 (O Nível 4)",,"v0.4 (El Nivel 4)"
+"v0.4/Desc",11955453931520,"- Added level 4 (Currently, it does not have an Easter Egg).
 - Added cinematic for level 4.
 - Added 3 new achievements. (In the next update, we will add 3 more).
 - Organized translation tables.
@@ -883,8 +883,8 @@ OBSERVAÇÃO: Tenha em mente que o nível 4 pode estar um pouco desbalanceado e 
 - Ahora en el nivel 3 los Cupcakes se empezarán a mover cuando los alumbres.
 - Se han optimizado algunos scripts y modelos.
 NOTA: Tened en cuenta que el nivel 4 puede estar un poco desbalanceado y faltar algunas cosas (Por ejemplo el tutorial), conforme vayamos sacando parches iremos balanceando, arreglando y añadiendo lo que le falta al nivel."
-v0.4.1/Title,11957303619584,v0.4.1 (Hot Fix),v0.4.1 (Correção Urgente),,v0.4.1 (Arreglos)
-v0.4.1/Desc,12673401335808,"- Optimized Chica's animations.
+"v0.4.1/Title",11957303619584,"v0.4.1 (Hot Fix)","v0.4.1 (Correção Urgente)",,"v0.4.1 (Arreglos)"
+"v0.4.1/Desc",12673401335808,"- Optimized Chica's animations.
 - Optimized Foxy's animations.
 - Optimized code.
 - Increased the time it takes for Foxy to appear.
@@ -927,3 +927,26 @@ v0.4.1/Desc,12673401335808,"- Optimized Chica's animations.
 - Arreglado bug, el cual provocaba que ciertos textos dejaran de renderizarse.
 - Arreglado bug que provocaba que las luces rojas no se apagaran o encendieran al momento.
 - Arreglado algunos audios, los cuales podían sonar mal o directamente no sonar."
+"v0.4.2/Title",1446482114097152,"v0.4.2 (Fixes & Translations)","v0.4.2 (Correções e Traduções)",,"v0.4.2 (Arreglos y Traducciones)"
+"v0.4.2/Desc",1446487252119552,"- Russian and Portuguese languages have been added (Some translations are still pending).
+- Help points have been added to identify interactable objects in level 4; these will disappear after 30 seconds.
+- Part of the tutorial for level 4 has been added (Some icons are yet to be added).
+- The text font for the tutorials has been changed.
+- The text font has been updated to display Russian characters.
+- A bug causing text to appear cut/broken has been fixed.
+- A bug causing animations to continue running during and after the scare in level 4 has been fixed.
+NOTE: The ""Changelogs"" section is still pending translation into Russian.","- Os idiomas russo e português foram adicionados (algumas traduções ainda estão pendentes).
+- Foram adicionados pontos de ajuda para identificar objetos interativos no nível 4; estes desaparecerão após 30 segundos.
+- Parte do tutorial do nível 4 foi adicionada (ainda é necessário adicionar alguns ícones).
+- A fonte de texto para os tutoriais foi alterada.
+- A fonte de texto foi atualizada para exibir caracteres russos.
+- Um erro que fazia com que os textos aparecessem cortados/quebrados foi corrigido.
+- Um erro que fazia com que as animações continuassem sendo executadas durante e após o susto no nível 4 foi corrigido.
+NOTA: A tradução da seção de ""Changelogs"" para o russo ainda está pendente.",,"- Se ha añadido los idiomas ruso y portugués (Aún falta traducir algunas cosas).
+- Se ha añadido unos puntos de ayuda para saber qué objetos se pueden interactuar en el nivel 4, estos a los 30 segundos desaparecerán.
+- Se ha añadido parte del tutorial del nivel 4 (Aún queda añadir algunos iconos).
+- Se ha actualizado la fuente de texto para que muestre los caracteres rusos.
+- Se ha cambiado la fuente de texto para los tutoriales.
+- Se ha arreglado un error que provocaba que los textos se vieran cortados/rotos.
+- Se ha arreglado un error que provocaba que las animaciones se siguieran ejecutando durante y después del susto en el nivel 4.
+NOTA: Aún falta traducir la parte de los ""Changelogs"" al ruso."
